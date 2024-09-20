@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "沒有整理的雜學.md",
+                "file": "考研究所/資料結構/第五章-Tree與Binary Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "沒有整理的雜學.md",
+                "file": "考研究所/資料結構/第五章-Tree與Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "沒有整理的雜學.md",
+                "file": "考研究所/資料結構/第五章-Tree與Binary Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "沒有整理的雜學.md"
+                "file": "考研究所/資料結構/第五章-Tree與Binary Tree.md"
               }
             }
           },
@@ -158,7 +158,17 @@
   },
   "active": "2da89a797194ccf5",
   "lastOpenFiles": [
+    "考研究所/資料結構/第一章-.md",
+    "考研究所/計算機組織/第一章-基礎知識.md",
+    "考研究所/線性代數/第二章_行列式.md",
     "考研究所/線性代數/第七章_Canonical Forms.md",
+    "考研究所/線性代數/第四章_線性映射.md",
+    "考研究所/線性代數/第六章-Inner products and Norms.md",
+    "考研究所/線性代數/第五章-對角化及其應用.md",
+    "考研究所/線性代數/第三章_向量空間.md",
+    "考研究所/線性代數/第一章_矩陣與線性方程組.md",
+    "考研究所/資料結構/第五章-Tree與Binary Tree.md",
+    "沒有整理的雜學.md",
     "README.md",
     "Pasted image 20240920153756.png",
     "Pasted image 20240920143615.png",
@@ -169,26 +179,16 @@
     "Pasted image 20240919155202.png",
     "Pasted image 20240919155144.png",
     "Pasted image 20240919105612.png",
-    "考研究所/線性代數/第六章-Inner products and Norms.md",
     "Pasted image 20240918150909.png",
     "Excalidraw/Drawing 2024-09-16 09.59.20.excalidraw.md",
-    "考研究所/線性代數/第五章-對角化及其應用.md",
-    "考研究所/計算機組織/第一章-基礎知識.md",
     "考研究所/離散數學/邏輯(Logic).md",
     "Untitled 2.md",
     "Untitled 1.md",
-    "考研究所/資料結構/第一章-.md",
     "考研究所/離散數學",
-    "考研究所/資料結構/第五章-Tree與Binary Tree.md",
     "考研究所/資料結構",
-    "考研究所/線性代數/第二章_行列式.md",
-    "考研究所/線性代數/第一章_矩陣與線性方程組.md",
-    "考研究所/線性代數/第四章_線性映射.md",
     "考研究所/計算機組織",
     "考研究所/線性代數",
-    "考研究所/線性代數/第三章_向量空間.md",
     "考研究所",
-    "沒有整理的雜學.md",
     "Untitled.canvas",
     "Untitled.md",
     "Project management.md",
