@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "id": "9d3fe3e6c468b364",
+      "type": "text",
+      "text": "原文書",
+      "x": 420,
+      "y": -25,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "2edd896fe39378d0",
+      "type": "text",
+      "text": "課堂簡報",
+      "x": -660,
+      "y": -20,
+      "width": 250,
+      "height": 50
+    },
+    {
+      "id": "05e4e695c4aa84bd",
+      "type": "text",
+      "text": "什麼是編譯器",
+      "x": -665,
+      "y": 120,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f92baf8e2bc69ee6",
+      "type": "text",
+      "text": "編譯流程",
+      "x": -665,
+      "y": 260,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "8e14ca74219f0418",
+      "type": "text",
+      "text": "lexecal analyze",
+      "x": -660,
+      "y": 380,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "5bc7e865013eb643",
+      "type": "text",
+      "text": "semantic analyze",
+      "x": -660,
+      "y": 620,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "c366ef3dd05caf66",
+      "type": "text",
+      "text": "syntax analyze",
+      "x": -660,
+      "y": 500,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "c574b7bf70a5cc4d",
+      "type": "text",
+      "text": "複習programing languge",
+      "x": -660,
+      "y": 740,
+      "width": 260,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1a250d959da4036",
+      "fromNode": "2edd896fe39378d0",
+      "fromSide": "right",
+      "toNode": "9d3fe3e6c468b364",
+      "toSide": "left"
+    }
+  ]
+}
