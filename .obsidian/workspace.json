@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研究所/線性代數/第三章_向量空間.md",
+                "file": "考研究所/線性代數/第三章題目.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考研究所/線性代數/第三章_向量空間.md",
+                "file": "考研究所/線性代數/第三章題目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "考研究所/線性代數/第三章_向量空間.md",
+                "file": "考研究所/線性代數/第三章題目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研究所/線性代數/第三章_向量空間.md"
+                "file": "考研究所/線性代數/第三章題目.md"
               }
             }
           },
@@ -170,8 +170,9 @@
   },
   "active": "2da89a797194ccf5",
   "lastOpenFiles": [
-    "考研究所/線性代數/第四章_線性映射.md",
     "考研究所/線性代數/第三章_向量空間.md",
+    "考研究所/線性代數/第三章題目.md",
+    "考研究所/線性代數/第四章_線性映射.md",
     "考研究所/線性代數/第七章_Canonical Forms.md",
     "新增 文字文件.txt",
     "考研究所/資料結構/第五章-Tree與Binary Tree.md",
