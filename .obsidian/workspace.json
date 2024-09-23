@@ -11,11 +11,9 @@
             "id": "b2cda802d67d8ad2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "考研究所/線性代數/第四章_線性映射.md",
-                "mode": "source",
-                "source": false
+                "file": "考研究所/作業系統/作業系統.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考研究所/線性代數/第四章_線性映射.md",
+                "file": "考研究所/作業系統/作業系統.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "考研究所/線性代數/第四章_線性映射.md",
+                "file": "考研究所/作業系統/作業系統.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研究所/線性代數/第四章_線性映射.md"
+                "file": "考研究所/作業系統/作業系統.png"
               }
             }
           },
@@ -158,6 +156,7 @@
   },
   "active": "b2cda802d67d8ad2",
   "lastOpenFiles": [
+    "考研究所/線性代數/第四章_線性映射.md",
     "考研究所/離散數學/離散數學.png",
     "考研究所/作業系統/作業系統.png",
     "考研究所/演算法",
@@ -168,7 +167,6 @@
     "作業系統/作業系統.xmind",
     "作業系統",
     "考研究所/線性代數/第三章題目.md",
-    "考研究所/線性代數/第四章_線性映射.md",
     "考研究所/線性代數/第七章_Canonical Forms.md",
     "新增 文字文件.txt",
     "考研究所/資料結構/第五章-Tree與Binary Tree.md",
@@ -188,7 +186,6 @@
     "Pasted image 20240919163945.png",
     "Pasted image 20240919155202.png",
     "Pasted image 20240919155144.png",
-    "Pasted image 20240919105612.png",
     "Excalidraw/Drawing 2024-09-16 09.59.20.excalidraw.md",
     "考研究所/離散數學/邏輯(Logic).md",
     "Untitled 2.md",
