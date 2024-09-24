@@ -11,9 +11,11 @@
             "id": "b2cda802d67d8ad2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "考研究所/作業系統/作業系統.png"
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考研究所/作業系統/作業系統.png",
+                "file": "Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "考研究所/作業系統/作業系統.png",
+                "file": "Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研究所/作業系統/作業系統.png"
+                "file": "Untitled 2.md"
               }
             }
           },
@@ -156,9 +158,11 @@
   },
   "active": "b2cda802d67d8ad2",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Untitled.md",
+    "考研究所/作業系統/作業系統.png",
     "考研究所/線性代數/第四章_線性映射.md",
     "考研究所/離散數學/離散數學.png",
-    "考研究所/作業系統/作業系統.png",
     "考研究所/演算法",
     "考研究所/新增資料夾",
     "考研究所/線性代數/第三章_向量空間.md",
@@ -189,12 +193,10 @@
     "Excalidraw/Drawing 2024-09-16 09.59.20.excalidraw.md",
     "考研究所/離散數學/邏輯(Logic).md",
     "Untitled 2.md",
-    "Untitled 1.md",
     "考研究所/離散數學",
     "考研究所/資料結構",
     "考研究所/計算機組織",
     "Untitled.canvas",
-    "Untitled.md",
     "Project management.md",
     "Avoid too many parameter in method or  function.md",
     "編譯器設計學期進度.canvas",
