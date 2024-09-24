@@ -11,9 +11,11 @@
             "id": "b2cda802d67d8ad2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "考研究所/演算法/演算法.png"
+                "file": "考研究所/線性代數/第三章_向量空間.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考研究所/演算法/演算法.png",
+                "file": "考研究所/線性代數/第三章_向量空間.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "考研究所/演算法/演算法.png",
+                "file": "考研究所/線性代數/第三章_向量空間.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研究所/演算法/演算法.png"
+                "file": "考研究所/線性代數/第三章_向量空間.md"
               }
             }
           },
@@ -156,8 +158,8 @@
   },
   "active": "b2cda802d67d8ad2",
   "lastOpenFiles": [
-    "Untitled 2.md",
     "考研究所/演算法/演算法.png",
+    "Untitled 2.md",
     "考研究所/演算法/演算法.xmind",
     "Untitled 1.md",
     "Untitled.md",
